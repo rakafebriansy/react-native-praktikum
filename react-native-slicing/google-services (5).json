@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623265962493",
+    "project_id": "project-funcpro",
+    "storage_bucket": "project-funcpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623265962493:android:fc8106e6f90afce2036194",
+        "android_client_info": {
+          "package_name": "com.reactnative.example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMIqRgbx-LFqkD8Y_1YYaKsm0Jy7QsKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
